@@ -1,0 +1,12 @@
+/*Style sheet*/
+
+/*CSS selector*/
+body{
+    background-color: darkolivegreen;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    text-align: center;
+    
+}
